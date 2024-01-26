@@ -1,0 +1,5 @@
+messages:
+  greeting:
+    default-message: "Hello from UAT"
+  farewell:
+    default-message: "Goodbye from UAT"
