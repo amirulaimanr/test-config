@@ -1,5 +1,5 @@
-messages:
+messages-service:
   greeting:
-    default-message: "Hello from SIT"
+    default-messages: "Hello from SIT"
   farewell:
-    default-message: "Goodbye from SIT"
+    default-messages: "Goodbye from SIT"
